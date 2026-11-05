@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sawatwangkuang-arch.github.io/changkaew-lighting/sitemap.xml
